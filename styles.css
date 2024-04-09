@@ -1,0 +1,26 @@
+/* Esto es selectores */   
+h1 {
+    color: red;
+}
+
+/* Esto es una herencia */
+h2 {
+    color: green;
+}
+
+/* Esto es una cascada */
+p {
+    color: blue;
+}
+
+p{
+    color: brown;
+}
+
+/* Esto es un ejemplo de especificidad */
+h3 {
+    color: skyblue;
+}
+.especificidad {
+    color: black;
+}
